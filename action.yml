@@ -1,0 +1,6 @@
+name: 'Fast Pulisher'
+author: 'Next-Fast'
+description: 'Next-Fast Rapid Publishing Tool'
+runs:
+  using: 'node20'
+  main: 'main.ts'
